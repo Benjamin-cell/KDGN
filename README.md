@@ -28,12 +28,12 @@ train_KDGN.py : This file trains the KDGN model.
 util.py: This file contains some defined functions.
 
 ## Requirements
--pandas: 1.3.0
--dill: 0.3.4
--torch: 1.11.0+cu111
--rdkit: 2021.03.4
--scikit-learn: 0.24.2
--numpy: 1.21.1
+- pandas: 1.3.0
+- dill: 0.3.4
+- torch: 1.11.0+cu111
+- rdkit: 2021.03.4
+- scikit-learn: 0.24.2
+- numpy: 1.21.1
 - Python >=3.5
 
 ## Running the code
